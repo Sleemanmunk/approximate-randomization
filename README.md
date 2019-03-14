@@ -1,6 +1,8 @@
 # approximate-randomization
 An implementation of the Approximate Randomization test in python
 
+Also known as a "permutation test"
+
 Algorithm: https://cs.stanford.edu/people/wmorgan/sigtest.pdf
 
 ## Example
